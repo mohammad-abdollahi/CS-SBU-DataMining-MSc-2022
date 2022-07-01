@@ -1,0 +1,6 @@
+kind: ExternalService
+name: data-mining-final
+spec:
+ image: data_mining_final:0.1
+ port: 80  
+ static_path: static
